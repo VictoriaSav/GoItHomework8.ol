@@ -881,7 +881,7 @@ img {
   margin-bottom: 20px;
   font-weight: 700;
   font-size: 14px;
-  line-height: 1.14px;
+  line-height: 1.142;
   text-transform: uppercase;
   color: var(--white-text-color);
 }
